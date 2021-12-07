@@ -20,3 +20,7 @@ text-align: center;
     font-family: cursive;
     font-size: 20px;
 }
+.home {
+    background-color: rgb(233, 197, 107);
+    font-weight: 800px;
+}
