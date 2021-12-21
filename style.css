@@ -22,5 +22,11 @@ text-align: center;
 }
 .home {
     background-color: rgb(233, 197, 107);
-    font-weight: 800px;
+    font-weight: 2000px;
+    font-family: 'Times New Roman', Times, serif;  
+    padding: 20px;
+    border: 2px solid rgb(71, 51, 0);
+    ;
 }
+
+
